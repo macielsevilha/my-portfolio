@@ -1,0 +1,24 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Iceland&family=Montserrat:wght@500&display=swap');
+
+
+* {
+  margin:  0;
+  font-family: Montserrat;
+}
+
+.Header-layout {
+  display: flex;
+  justify-content: center;
+  background-color: var(--color05);
+  height: 80px;
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(160, 160, 160, 0.5); /* Sombra branca */
+}
+.Main-layout {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--color05);
+  
+}

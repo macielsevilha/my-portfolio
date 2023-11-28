@@ -1,0 +1,28 @@
+:root {
+  --color-background-dark: #00010D;
+  --color-background-light: #010326;
+  --color-accent: #5B83A6;
+  --color-primary: #A7C6D9;
+  --color-text: #F2F2F2;
+ 
+  --primary: var(--color-background-dark);
+  --white: var(--color-text);
+ 
+  --font-size-small: 14px;
+  --font-size-medium: 16px;
+  --font-size-large: 30px;
+  --font-size-xlarge: 64px;
+ 
+  --font-size-heading: var(--font-size-large);
+  --font-size-subheading: var(--font-size-medium);
+ 
+  /* Adicionando mais tamanhos de fonte */
+  --font-size-xxsmall: 10px;
+  --font-size-xsmall: 12px;
+  --font-size-xmedium: 20px;
+  --font-size-xxmedium: 24px;
+  --font-size-xlarge: 34px;
+  --font-size-xxlarge: 38px;
+  --font-size-xxlarge: 80px;
+ }
+ 

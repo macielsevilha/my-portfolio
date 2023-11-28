@@ -1,0 +1,20 @@
+.navbar {
+    .itens {
+        display: flex;
+        gap: 20px;
+        li {
+            list-style: none;
+        }
+    }
+}
+@media screen and (max-width: 1000px) { 
+    .navbar {
+        .itens {
+            display: none !important;
+            gap: 20px;
+            li {
+                list-style: none;
+            }
+        }
+    }
+}

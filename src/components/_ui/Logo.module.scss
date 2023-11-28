@@ -1,0 +1,19 @@
+/* src/components/Logo.css */
+.logo {
+    
+  }
+  
+  .icon {
+    font-size: 40px;
+    font-weight: bold;
+    color: #3498db; /* Cor do ícone */
+  }
+  
+  .text {
+    font-size: var( --font-size-large);
+    font-weight: bold;
+    color: #333; /* Cor do texto */
+    margin-left: 5px; /* Espaçamento à esquerda */
+    vertical-align: super;
+  }
+  
