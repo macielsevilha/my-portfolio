@@ -4,7 +4,6 @@ import React from 'react';
 import styles from './Header.module.scss'
 import Logo from '../_ui/Logo'
 import Link from '../_ui/Link';
-import Button from '../_ui/Button';
 import Navbar from '../_ui/Navbar';
 
 const HeaderLayout = () => {
